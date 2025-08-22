@@ -1,48 +1,38 @@
-🍽️ Restaurant Ordering System
+# 🍽️ Restaurant Ordering System
 
-A modern web application designed to streamline restaurant operations by allowing customers to browse menus, place orders, and enabling staff to manage those orders efficiently.
+A web application designed to streamline restaurant operations, allowing customers to browse menus, place orders, and enabling staff to manage those orders efficiently.
 
-📌 Features
+## 📌 Features
 
-Customer Interface:
+- **Customer Interface**
+  - Browse and search menu items
+  - Add items to cart
+  - Place orders seamlessly
 
-Browse and search the menu
+- **Admin Panel**
+  - Manage menu items
+  - View and manage customer orders
+  - Update order statuses
 
-Add items to cart
+- **User Authentication**
+  - Secure login and registration for both customers and staff
 
-Place orders seamlessly
+## 🛠️ Tech Stack
 
-Admin Panel:
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap
+- **Backend:** PHP
+- **Database:** MySQL
 
-Manage menu items
+## 🚀 Getting Started
 
-View and manage customer orders
+### Prerequisites
 
-Update order statuses
+- XAMPP/WAMP or any local server environment
+- MySQL database
 
-User Authentication:
+### Installation
 
-Secure login and registration for both customers and staff
+1. Clone the repository:
 
-🛠️ Tech Stack
-
-Frontend:
-
-Vue.js
-
-Backend:
-
-Express.js
-
-Database:
-
-MySQL
-
-🚀 Getting Started
-Prerequisites
-
-Ensure you have the following installed:
-
-Node.js
-
-MySQL
+```bash
+git clone https://github.com/MalothuAjay/restaurant-ordering-system.git
